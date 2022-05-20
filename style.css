@@ -1,0 +1,27 @@
+.nav-c {
+    background-color: #DA291C!important;
+}
+
+.nav-c,span {
+    color: #FFFF !important;
+}
+
+.text-p {
+    font-size: 12px;
+}
+
+.card-body {
+    background-color: #DA291C;
+    color: #fff !important;
+}
+
+.border-c {
+    border-top-color: #DA291C!important;
+    border-left-color: #DA291C!important;
+    border-bottom-color: #DA291C!important;
+    border-right-color: #DA291C!important;
+}
+
+.p-c{
+    margin-bottom: 0 !important;
+}
